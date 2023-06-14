@@ -1,0 +1,2 @@
+1. if we put beforeEach inside a describe block, it will only run for the test cases of that block
+2. we shouldn't put many expect methods inside a single it() block
